@@ -5,8 +5,8 @@ COPYRIGHT_NOTICE =
 DEVELOPER_TEAM = ##TEAM_ID##
 BUNDLE_IDENTIFIER = ru.artpancreas.$(DEVELOPMENT_TEAM).FreeAPS
 APP_GROUP_ID = group.com.$(DEVELOPMENT_TEAM).loopkit.LoopGroup
-APP_ICON = pod_colorful
-APP_URL_SCHEME = freeaps-x
+APP_ICON = catWithPod
+APP_URL_SCHEME = iaps
 
 #include? "ConfigOverride.xcconfig"
 //#include? "../../ConfigOverride.xcconfig"
